@@ -1,1 +1,1 @@
-<p align="center"><a href="https://dashboard.heroku.com/new?templat=https://github.com/Akash8t2/Ak-X-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="300" height="100"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?templat=https://github.com/Akash8t2/Ak-X-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="300" height="80"/></a></p>
