@@ -36,14 +36,14 @@ async def start(_, msg):
 
 ],
 [
-InlineKeyboardButton("𝗖𝗖 𝗕𝗢𝗧", url=f"https://github.com/DAXXTEAM/CC_BOT"),
+InlineKeyboardButton("𝗖𝗖 𝗕𝗢𝗧", url=f"https://t.me/SDBB_Bot"),
 
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://telegra.ph/file/faa1f3ad7116e33d9f402.jpg",
+        photo="https://telegra.ph/file/bcf5b6758f4351ea9e93a.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
@@ -66,7 +66,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/DAXXTEAM/DAXXMUSIC) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/HEROKUFREECC)
+        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/Dharmarashtra_Sanatan_Sanghatan) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/HEROKU_CREDIT_CARD_KING)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
