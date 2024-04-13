@@ -92,8 +92,9 @@ async def member_has_left(client: app, member: ChatMemberUpdated):
                 profile_path=photo,
             )
         
-            caption = f"**#New_Member_Left**\n\n**๏** {user.mention} **ʜᴀs ʟᴇғᴛ ᴛʜɪs ɢʀᴏᴜᴘ**\n**๏ sᴇᴇ ʏᴏᴜ sᴏᴏɴ ᴀɢᴀɪɴ..!**"
-            button_text = "๏ ᴠɪᴇᴡ ᴜsᴇʀ ๏"
+            caption = f"{user.mention} आपका धन्यवाद।\n \nअपना समय सनातन को सीखने के लिए ।\n \nअपने जो शिखा है उसका धुर उपयोग न करे और सनातन की अकेता मैं अपना ध्यान दे ।
+
+\nभगवान शिव का आशीर्वाद आपकी आगे की यात्रा में आपका मार्गदर्शन करेगा । \nइस समूह का हिस्सा बनने के लिए धन्यवाद और आपका मार्ग प्रकाश और सकारात्मकता से भरा रहे। \nओम नमः शिवाय।"
 
             # Generate a deep link to open the user's profile
             deep_link = f"tg://openmessage?user_id={user.id}"
