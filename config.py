@@ -16,11 +16,11 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","HINDU_SHIVAY")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NexikoBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Sanatni_helper_Bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Nexiko")
+BOT_NAME = getenv("BOT_NAME" , "Sanatni helper")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Royal_ymraj")
 # ---------------------------------------------------------
 
 
