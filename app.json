@@ -33,7 +33,7 @@
         "required": true
       },
       "MUST_JOIN": {
-            "description": "group or channel ka username .(without @)",
+        "description": "group or channel ka username .(without @)",
         "required": true
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
