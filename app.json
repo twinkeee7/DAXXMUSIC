@@ -36,6 +36,7 @@
         "description": "group or channel ka username .(without @)",
         "value": "",
         "required": true
+      },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
         "value": "",
