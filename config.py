@@ -29,7 +29,6 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "Royal_ymraj")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 
-MUST_JOIN = getenv("MUST_JOIN", None)
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
