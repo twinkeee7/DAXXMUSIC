@@ -14,11 +14,11 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Singleboyhari")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@Boss_Ownerr")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Advanced009_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@AdvancedWorking_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "R ɪ s ᴇ")
+BOT_NAME = getenv("BOT_NAME" , "Rise")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
 # ---------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002029339867))
+LOGGER_ID = int(getenv("LOGGER_ID", --1002042843212))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6842567630))
+OWNER_ID = int(getenv("OWNER_ID", 7173333959))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
