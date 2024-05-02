@@ -1,4 +1,4 @@
-import re
+7import re
 from os import getenv
 # ------------------------------------
 # ------------------------------------
@@ -141,18 +141,18 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/1e838bb8f172e8a6a5cfb.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/926dea70c88aa7a4535ec.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/00360393a15daf7fc4e9d.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/f2932e3e3be146f3fa275.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/32aa7effd83fb4522d92b.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/48f39202823b358203234.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/866dcc11180c8ae37380c.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/8ed3c1803ae9f69da91ca.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/4dc854f961cd3ce46899b.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/8ed3c1803ae9f69da91ca.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
