@@ -14,11 +14,11 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","@Boss_Ownerr")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@Rise_Ownerr")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "@AdvancedWorking_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@AdvancedManagement123_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Rise")
+BOT_NAME = getenv("BOT_NAME" , "Rɪsᴇ Assɪsᴛᴀɴᴛ")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
 # ---------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", --1002042843212))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002086465850))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7173333959))
+OWNER_ID = int(getenv("OWNER_ID", 7062539103))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -68,7 +68,7 @@ GIT_TOKEN = getenv(
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RiseeNetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RiseeUniverse")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Riseeuniverse")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
