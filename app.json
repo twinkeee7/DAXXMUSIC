@@ -1,7 +1,7 @@
 {
-    "name": "𝙳𝙰𝚇𝚇 𝙼𝚄𝚂𝙸𝙲",
+    "name": "˹Rɪsᴇ ꭙ Assɪsᴛᴀɴᴛ˼ ♪✨ !",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/dbb3222d0fd3712e2a0e4.jpg",
+    "logo": "https://telegra.ph/file/463dd0acf84d4b1ae10b0.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -39,7 +39,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
-        "value": "BQGajcYARKcGL2qvdmX6CJUk2sd_4sL1Nxk9_Us6hO4PySG1SAnNTHIo8DwnBeZ1cszWbepKBHcGbPI6Rbk5rsSmb-kum0GWGykGmQD_6btUogkY-nxUVJ46csbN2HtwuZmiZ67Hu5MnjW6zmFGJtvxzXbjFo_-2siie0XJV6bp7BBy0mKgzB_4gKpMMgw45xSyaFXJemZ2UcK9aMlJTat-zHkH2v1bnQGZ2gh5Hr1AvLlASyvqztQ_EW1s6is85prgwMtjA_PorgsZHx9eXSJtiro80fY_rlMEXOFxMdBrO6-uI3uIloF0zVs__SBocdbHjMI4xbHCvOjnEveBU_1YvuQMboQAAAAGrkGPHAA",
+        "value": "BQGajcYAnzSOWVQMex6z2C201tGBq0LW5Z7q8M70Hmp3x46NhClABIeBa6_P2_SdU9G9BdTzg0bzYOQXj7a0lxS4Z2wuR0QRPt9PzZGdmnRRlUvWlbzaidU-K6jTt_CRD28eRPc3On3R8P_eHUoo29YvgB4Y2L7_yf_venaqAIQoyc4R_gh6FrYVyQSbqnJBxroVPEpqmH0KqT5d2E5V_PkVpbDFJE8PdHp8Xv39wdsXAAA4ZLXdAmIaRF8Wma5MRCEj91oBkyTXnyej7UN9SdQCQ1hK5hqFrNCNEC4tZJVo_VmJetZ_Bpkkf_dbY-Zd6MkOzsXTwhl4YmRWcloOwqeTYkvk1gAAAAGrkGPHAA",
         "required": true
       },
       "HEROKU_API_KEY": {
