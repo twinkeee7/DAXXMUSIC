@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","@Rise_Ownerr")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "@AdvancedManagement123_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@RisexAdvancedManagementMusic_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Rɪsᴇ Assɪsᴛᴀɴᴛ")
 # ---------------------------------------------------------
@@ -141,16 +141,16 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/32aa7effd83fb4522d92b.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/c2ff050b35f2a1aeecc09.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/f2932e3e3be146f3fa275.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/c2ff050b35f2a1aeecc09.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/32aa7effd83fb4522d92b.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/866dcc11180c8ae37380c.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/8ed3c1803ae9f69da91ca.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/463dd0acf84d4b1ae10b0.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/e2cba3be8cc93a534435f.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/7e673d01216c8ea8192cf.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e2cba3be8cc93a534435f.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/8c7bf06c9e7c1679c4a91.jpg"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 YOUTUBE_IMG_URL = "https://telegra.ph/file/8ed3c1803ae9f69da91ca.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
