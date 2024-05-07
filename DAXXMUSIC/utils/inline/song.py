@@ -16,7 +16,7 @@ def song_markup(_, vidid):
         ],
         [
             InlineKeyboardButton(
-                text=_["CLOSE_BUTTON"], callback_data="close"
+                text=_["Rise Close"], callback_data="close"
             ),
         ],
     ]
