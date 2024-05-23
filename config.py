@@ -1,4 +1,4 @@
-import re
+7import re
 from os import getenv
 # ------------------------------------
 # ------------------------------------
@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","iam_daxx")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NexikoBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "NexikoBJt")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Nexiko")
 # ---------------------------------------------------------
